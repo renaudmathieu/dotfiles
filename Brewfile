@@ -1,6 +1,5 @@
 tap "1password/tap"
 tap "getsentry/tools"
-tap "homebrew/bundle"
 tap "jetbrains-junie/junie"
 tap "jetbrains/utils"
 tap "oven-sh/bun"
@@ -8,7 +7,6 @@ tap "romkatv/powerlevel10k"
 tap "varabyte/tap"
 brew "node"
 brew "agent-browser"
-brew "jpeg-xl"
 brew "aom"
 brew "autoconf"
 brew "openjdk"
@@ -31,6 +29,7 @@ brew "gnutls"
 brew "gradle-profiler"
 brew "icu4c@77"
 brew "jenv"
+brew "jpeg-xl"
 brew "kdoctor"
 brew "kubernetes-cli"
 brew "libass"
@@ -56,22 +55,31 @@ brew "jetbrains/utils/kotlin-lsp"
 brew "oven-sh/bun/bun"
 brew "varabyte/tap/kobweb"
 cask "1password-cli"
+cask "adobe-creative-cloud"
+cask "claude"
 cask "gcloud-cli"
 cask "ghostty"
+cask "gitup-app"
 cask "jetbrains-toolbox"
+cask "raycast"
 cask "temurin@17"
 cask "tuist"
+cask "visual-studio-code"
+cask "warp"
 cask "xcodes-app"
+cask "zed"
 mas "1Password for Safari", id: 1569813296
 mas "AdBlock", id: 1402042596
 mas "Developer", id: 640199958
 mas "djay Pro", id: 450527929
+mas "GarageBand", id: 682658836
+mas "iMovie", id: 408981434
 mas "Keynote", id: 409183694
 mas "Keynote", id: 361285480
 mas "Logic Pro", id: 634148309
 mas "MonitorControlLite", id: 1595464182
-mas "Numbers", id: 361304891
 mas "Numbers", id: 409203825
+mas "Numbers", id: 361304891
 mas "Pages", id: 409201541
 mas "Pages", id: 361309726
 mas "PlayGuide", id: 6443413389
@@ -80,5 +88,4 @@ mas "Slack", id: 803453959
 mas "WhatsApp", id: 310633997
 mas "Xcode", id: 497799835
 vscode "ecmel.vscode-html-css"
-vscode "github.copilot"
 vscode "github.copilot-chat"
