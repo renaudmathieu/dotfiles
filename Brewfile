@@ -14,6 +14,7 @@ brew "autoconf"
 brew "openjdk"
 brew "bundletool"
 brew "carthage"
+brew "chezmoi"
 brew "cliclick"
 brew "cocoapods"
 brew "fastlane"
@@ -73,7 +74,6 @@ mas "Numbers", id: 361304891
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
 mas "Pages", id: 361309726
-mas "Perplexity", id: 6714467650
 mas "PlayGuide", id: 6443413389
 mas "Prime Video", id: 545519333
 mas "Slack", id: 803453959
