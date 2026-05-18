@@ -61,26 +61,24 @@ cask "gcloud-cli"
 cask "ghostty"
 cask "gitup-app"
 cask "jetbrains-toolbox"
+cask "qobuz"
 cask "raycast"
+cask "signal"
 cask "temurin@17"
 cask "tuist"
 cask "visual-studio-code"
+cask "vlc"
 cask "warp"
 cask "xcodes-app"
 cask "zed"
 mas "1Password for Safari", id: 1569813296
 mas "AdBlock", id: 1402042596
 mas "Developer", id: 640199958
-mas "djay Pro", id: 450527929
-mas "GarageBand", id: 682658836
 mas "iMovie", id: 408981434
-mas "Keynote", id: 409183694
 mas "Keynote", id: 361285480
 mas "Logic Pro", id: 634148309
 mas "MonitorControlLite", id: 1595464182
-mas "Numbers", id: 409203825
 mas "Numbers", id: 361304891
-mas "Pages", id: 409201541
 mas "Pages", id: 361309726
 mas "PlayGuide", id: 6443413389
 mas "Prime Video", id: 545519333
